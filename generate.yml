@@ -22,7 +22,7 @@ jobs:
       - name: Run Ledger Script
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python evening.py > index.html
+        run: python web_ledger.py > index.html
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
