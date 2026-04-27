@@ -15,7 +15,7 @@ they are processed by mainstream media narratives.
 It acts as a strategic analyst. Using a Large Language Model (GPT-4o), it
 reinterprets the headlines through a "realist" lens. It identifies shifts in
 power, maritime logistics, and infrastructure volatility, delivering the
-content in a cold, cynical, and objective tone.
+content in a cold, analytic, and objective tone.
 
 5. Tactical Deployment
 It functions as a dossier architect. Instead of a standard newsfeed, it
@@ -27,7 +27,7 @@ briefing.
 
 Copyright (c) 2026 Institutional Analytic Group
 
-Copyright (c) 2026 [Andreas Mitsis/github/amitsis]
+Copyright (c) 2026 [Andreas Mitsis|github/amitsis]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this "Noetic Brief" intelligence engine and associated documentation files, 
