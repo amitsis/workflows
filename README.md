@@ -21,7 +21,7 @@ content in a cold, analytic, and objective tone.
 It functions as a dossier architect. Instead of a standard newsfeed, it
 generates a high-contrast, dark-mode HTML dashboard. It uses monospace
 typography and color-coded markers (like the "red-line" headers and
-"tactical blue" source tags) to mimic the aesthetic of a private security
+"tactical orange" source tags) to mimic the aesthetic of a private security
 briefing.
 
 
